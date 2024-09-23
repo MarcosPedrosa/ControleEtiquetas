@@ -1,0 +1,15 @@
+C:\VB\Desenvolvimento\BD           //Caminho do banco de dados Access
+                                   //Servidor banco de dados Sql server
+                                   //Caminho do banco de dados Access de interface
+10.0.0.4                           //Servidor banco de dados Sql server de interface
+C:\VB\Desenvolvimento\report       //Caminho dos relatorios
+C:\VB\Desenvolvimento\importacao   //Caminho dos arquivos importacao (txt/xml)
+C:\VB\Desenvolvimento\exportacao   //Caminho dos arquivos de exportacao
+C:\VB\Desenvolvimento\LogErro      //Pasta que contem os logs dos erros
+                                   //Reservado
+                                   //Reservado
+br                                 //Filial Musashi: br = Musashi do Brasil e am = Musashi da Amazonia
+                                   //Alias (Catalog) do Bd SqlServer
+Expedicao                          //Alias (Catalog) do Bd SqlServer de interface
+                                   //Ip do dispositivo móvel para coleta das mercadorias
+                                   //Ip do dispositivo móvel para paletização das mercadorias

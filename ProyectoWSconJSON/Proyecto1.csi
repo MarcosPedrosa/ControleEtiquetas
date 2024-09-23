@@ -1,0 +1,8 @@
+[History]
+1=#P0#=mb	#P1#=btnAceptar_Click	#P2#=Proyecto1/Form1/btnAceptar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210309113847	#P7#=0	#P8#=9	.
+2=#P0#=mb	#P1#=Eval	#P2#=Proyecto1/cJSONScript/Eval	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180806140549	#P7#=0	#P8#=-1	.
+3=#P0#=mb	#P1#=Command1_Click	#P2#=Proyecto1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180806140132	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=parseString	#P2#=Proyecto1/JSON/parseString	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180806134705	#P7#=0	#P8#=6	.
+5=#P0#=mb	#P1#=RStoJSON	#P2#=Proyecto1/JSON/RStoJSON	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180806133824	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=parseObject	#P2#=Proyecto1/JSON/parseObject	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180806133136	#P7#=0	#P8#=0	.
+7=#P0#=mb	#P1#=AddParamJSON	#P2#=Proyecto1/Module1/AddParamJSON	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180806130104	#P7#=0	#P8#=0	.

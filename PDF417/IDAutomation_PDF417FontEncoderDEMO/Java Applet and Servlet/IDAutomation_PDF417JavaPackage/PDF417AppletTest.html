@@ -1,0 +1,213 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>IDAutomation.com, Inc. Java 2D Barcode Applet Automation Example</TITLE>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 6.0">
+<SCRIPT LANGUAGE="JavaScript">
+function onApply() {
+  
+  document.TestApplet.setParameter('X',document.baropt.FIELDX.value);
+  document.TestApplet.setParameter('XYR',document.baropt.FIELDXTOYRATIO.value);
+  document.TestApplet.setParameter('TRN',document.baropt.COMBOTRUNCATED.options[document.baropt.COMBOTRUNCATED.selectedIndex].value); 
+  document.TestApplet.setParameter('MAL',document.baropt.LASTSEG.options[document.baropt.LASTSEG.selectedIndex].value); 
+  document.TestApplet.setParameter('MAE',document.baropt.MACROENABLE.options[document.baropt.MACROENABLE.selectedIndex].value);
+  document.TestApplet.setParameter('MAF',document.baropt.FILEID.value);
+  document.TestApplet.setParameter('MAS',document.baropt.SEGID.value);
+  document.TestApplet.setParameter('COL',document.baropt.FIELDCOLUMNS.value);
+  document.TestApplet.setParameter('ROWS',document.baropt.FIELDROWS.value);
+  document.TestApplet.setParameter('ECL',document.baropt.COMBOLEVEL.options[document.baropt.COMBOLEVEL.selectedIndex].value);
+  document.TestApplet.setParameter('MODE',document.baropt.COMBOCOMPACTION.options[document.baropt.COMBOCOMPACTION.selectedIndex].value);
+  document.TestApplet.setParameter('BGC',document.baropt.COMBOBACKCOLOR.options[document.baropt.COMBOBACKCOLOR.selectedIndex].value);
+  document.TestApplet.setParameter('O',document.baropt.COMBOROTATE.options[document.baropt.COMBOROTATE.selectedIndex].value);
+  document.TestApplet.setParameter('BC',document.baropt.COMBOBARCOLOR.options[document.baropt.COMBOBARCOLOR.selectedIndex].value);
+  document.TestApplet.setParameter('D',document.baropt.FIELDVALUE.value);
+  document.TestApplet.refresh();
+}
+
+   </SCRIPT>
+</HEAD>
+<BODY>
+      <TABLE bgColor=#CC0000 width="100%" cellpadding="0" cellspacing="0">
+        <TBODY>
+        <TR>
+          <TD bgcolor="#FFFFFF">
+            <p align="center"><i><b><font size="6">ID<font color="#CC0000">Automation.com,
+            Inc.</font></font></b></i>
+          </TD></TR>
+        <TR>
+          <TD>
+            <p align="center"><em><b><font face="Arial" color="#FFFFFF" size="3">Your
+            Source for Quality Symbology</font></b></em>
+          </TD></TR>
+        <TR>
+          <TD bgcolor="#FFFFFF">
+            <p align="center"><b><font size="3">[<a href="http://www.idautomation.com/" target="_top">IDAutomation.com Home Page</a>]</font></b>
+          </TD></TR>
+        <TR>
+          <TD bgcolor="#FFFFFF">
+            <p align="center"><b><font size="5">PDF417 Java Barcode Applet Automation
+            Example</font></b>
+          </TD></TR></TBODY></TABLE>
+<p>
+<APPLET 
+  CODEBASE = "./"
+  ARCHIVE  = "IDAPDF417.jar"
+  CODE     = "com.idautomation.pdf417.PDF417Applet.class"
+  NAME     = "TestApplet"
+  WIDTH    = 400
+  HEIGHT   = 150
+  COL      = 7
+  HSPACE   = 0
+  VSPACE   = 0
+  ALIGN    = top
+>
+<PARAM NAME = "BARCODE" VALUE = "IDAutomation.com, Inc. PDF417 Barcode Test">
+<PARAM NAME = "X" VALUE = "0.03">
+</APPLET>
+
+</p>
+
+<FORM NAME="baropt" method="POST" action="--WEBBOT-SELF--">
+
+
+<table border="1" width="100%">
+  <tr>
+    <td width="100%" colspan="2">
+      <p align="left"><b>Choose options below and then
+
+<A HREF="javascript:onApply()">Click here to apply changes</A>.
+
+      </b>
+
+      The barcode image is designed to be painted as the page loads and may not
+      refresh properly on all browsers. In a production environment, barcodes
+      generated from applets should be painted as the page loads as is the case
+      when this page is first loaded. View our <a href="http://www.idautomation.com/java/AppletDemo.html">pre-loaded
+      applet demo</a> for an implementation example.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="22%">Data To Encode:</td>
+    <td width="78%"><textarea name="FIELDVALUE" rows="3" cols="50" value="IDAutomation.com, Inc. PDF417 Barcode Test"></textarea>
+    </td>
+
+  </tr>
+  <tr>
+    <td width="22%">Number of Columns:&nbsp;</td>
+    <td width="78%"> <INPUT type="text" name="FIELDCOLUMNS" size="10" value="7"></td>
+  </tr>
+  <tr>
+    <td width="22%">Number of Rows:</td>
+    <td width="78%"> <INPUT type="text" name="FIELDROWS" size="10" value="0"></td>
+  </tr>
+  <tr>
+    <td width="22%">Error correction Level</td>
+    <td width="78%"><SELECT name="COMBOLEVEL" size="1">
+<OPTION value="0">0</OPTION>
+<OPTION value="1">1</OPTION>
+<OPTION selected value="2">2</OPTION>
+<OPTION value="3">3</OPTION>
+<OPTION value="4">4</OPTION>
+<OPTION value="5">5</OPTION>
+<OPTION value="6">6</OPTION>
+<OPTION value="7">7</OPTION>
+<OPTION value="8">8</OPTION>
+</SELECT></td>
+  </tr>
+  <tr>
+    <td width="22%">X to Y Ratio:</td>
+    <td width="78%"> <INPUT type="text" name="FIELDXTOYRATIO" size="10" value="3">(X
+      multiple height
+      of individual cells; default=3, usually 2 to 4 times X)</td>
+  </tr>
+  <tr>
+    <td width="22%">X Dimension:</td>
+    <td width="78%"> <INPUT type="text" name="FIELDX" size="20" value="0.03">(Size
+      of narrow bar in CM; 1 mil = .00254 CM)</td>
+  </tr>
+  <tr>
+    <td width="22%">Compaction Mode:</td>
+    <td width="78%"><SELECT name="COMBOCOMPACTION" size="1">
+<OPTION selected value="BINARY">BINARY</OPTION>
+<OPTION value="TEXT">TEXT</OPTION>
+<OPTION value="NUMERIC">NUMERIC</OPTION> </SELECT>(Choose TEXT compaction if
+      encoding only text)</td>
+  </tr>
+  <tr>
+    <td width="22%">Orientation angle:</td>
+    <td width="78%"><SELECT name="COMBOROTATE" size="1"><OPTION selected value="0">0</OPTION>
+<OPTION value="90">90</OPTION>
+<OPTION value="180">180</OPTION>
+<OPTION value="270">270</OPTION> </SELECT></td>
+  </tr>
+  <tr>
+    <td width="23%">Truncated PDF417:</td>
+    <td width="77%"><SELECT name="COMBOTRUNCATED" size="1"><OPTION value="Y">Yes</OPTION>
+<OPTION value="N" selected>No</OPTION> </SELECT>  (creates smaller code if your
+      scanner supports it - most do)</td>
+  </tr>
+	<tr>
+    <td width="100%" colspan="2"><b>Macro Configuration:</b></td>
+  </tr>
+  <tr>
+    <td width="23%">Macro Enabled:</td>
+    <td width="77%"><SELECT name="MACROENABLE" size="1"><OPTION value="Y">Yes</OPTION>
+<OPTION value="N" selected>No</OPTION> </SELECT>  (Enables macro functionality)</td>
+  </tr>
+  <tr>
+    <td width="22%">File ID:</td>
+    <td width="78%"> <INPUT type="text" name="FILEID" size="10" value="0"> 
+	(File ID of the macro barcode)</td>
+  </tr>
+	<tr>
+    <td width="22%">Segment ID:</td>
+    <td width="78%"> <INPUT type="text" name="SEGID" size="10" value="0"> 
+	(Segment ID of the macro barcode)</td>
+  </tr>
+  <tr>
+    <td width="23%">Last Segment:</td>
+    <td width="77%"><SELECT name="LASTSEG" size="1"><OPTION value="Y">Yes</OPTION>
+<OPTION value="N" selected>No</OPTION> </SELECT>  (creates smaller code if your
+      scanner supports it - most do)</td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2"><b>Graphic Configuration:</b></td>
+  </tr>
+  <tr>
+    <td width="22%">Background Color:</td>
+    <td width="78%"> <SELECT name="COMBOBACKCOLOR" size="1"><OPTION value="BLACK">BLACK</OPTION>
+<OPTION value="RED">RED</OPTION> <OPTION value="BLUE">BLUE</OPTION> <OPTION value="GREEN">GREEN</OPTION>
+<OPTION value="YELLOW">YELLOW</OPTION> <OPTION value="CYAN">CYAN</OPTION>
+<OPTION value="GRAY">GRAY</OPTION> <OPTION selected value="WHITE">WHITE</OPTION>
+<OPTION value="ORANGE">ORANGE</OPTION> </SELECT></td>
+  </tr>
+  <tr>
+    <td width="22%">Symbol Color:</td>
+    <td width="78%"> <SELECT name="COMBOBARCOLOR" size="1"><OPTION selected value="BLACK">BLACK</OPTION>
+<OPTION value="RED">RED</OPTION> <OPTION value="BLUE">BLUE</OPTION> <OPTION value="GREEN">GREEN</OPTION>
+<OPTION value="YELLOW">YELLOW</OPTION> <OPTION value="CYAN">CYAN</OPTION>
+<OPTION value="GRAY">GRAY</OPTION> <OPTION value="WHITE">WHITE</OPTION>
+<OPTION value="ORANGE">ORANGE</OPTION> </SELECT></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2"><b>Documentation:</b></td>
+  </tr>
+  <tr>
+    <td width="24%"><a href="UserGuide.html"><b>User Guide</b></a></td>
+    <td width="76%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="24%"><a href="Doc/index.html"><b>Index of Fields and Methods</b></a></td>
+    <td width="76%">&nbsp;</td>
+  </tr>
+</table>
+
+
+<P>&nbsp;</P>
+
+
+</FORM>
+</BODY>
+</HTML>

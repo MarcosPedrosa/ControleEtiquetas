@@ -1,0 +1,18 @@
+C:\Arquivos de programas\Etiquetas       //Caminho do banco de dados Access
+                                         //Servidor banco de dados Sql server
+                                         //Caminho do banco de dados Access de interface
+10.3.0.173                               //Servidor banco de dados Sql server de interface
+C:\Arquivos de programas\Etiquetas       //Caminho dos relatorios
+C:\Arquivos de programas\Etiquetas       //Caminho dos arquivos importacao (txt/xml)
+C:\Arquivos de programas\Etiquetas       //Caminho dos arquivos de exportacao
+C:\Arquivos de programas\Etiquetas       //Pasta que contem os logs dos erros
+sa                                       //login Sql Server (br)
+F396B50                                  //senha Sql Server (br)
+br                                       //Filial Musashi: br = Musashi do Brasil e am = Musashi da Amazonia
+                                         //Alias (Catalog) do Bd SqlServer br
+TeklogixQA                                //Alias (Catalog) do Bd SqlServer de interface (br), CASO SEJA PRODUCAO = Teklogix
+                                         //Ip do dispositivo móvel para coleta das mercadorias
+                                         //Ip do dispositivo móvel para paletização das mercadorias
+                                         //Ip do dispositivo móvel para coleta das mercadorias
+                                         //Ip do dispositivo móvel para coleta das mercadorias
+                                         //Ip do dispositivo móvel para coleta das mercadorias

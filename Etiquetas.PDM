@@ -1,0 +1,375 @@
+[Root]
+Most Recent Package=Instalação Sistema etiquetas
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\Package\etiqueta2
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\msxml3.dll=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+C:\WINDOWS\system32\MSStdFmt.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSMASK32.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\EtiquetasMWM.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSStdFmt.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+C:\Arquivos de programas\Arquivos comuns\Designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\msxml3.dll=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\EtiquetasMWM.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSStdFmt.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msxml3.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\EtiquetasMWM.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Etiquetas
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Etiquetas
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Etiquetas]
+Icon1=Etiquetas.exe
+Title1=Etiquetas
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\Package\etiqueta2
+ProjectFolder=D:\Mauro\marcos\VB\Desenvolvimento\Fontes\MD_Etiquetas
+ServerSideCab=
+File1=D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\Package\etiqueta2\setup.exe
+File2=D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\Package\etiqueta2\Setup.Lst
+File3=D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\Package\etiqueta2\EtiquetasMWM.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Instalação Sistema etiquetas|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Package
+
+[Package|Instalação Sistema etiquetas|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Instalação Sistema etiquetas|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalação Sistema etiquetas|Files Found]
+Etiq.mdb=C:\Arquivos de programas\Etiquetas\Etiq.mdb
+param.txt=C:\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt
+
+[Package|Instalação Sistema etiquetas|Files Released]
+CR9DEPLOY.REG=
+u2dapp.dll=
+u2dpost.dll=
+u2fxml.dll=
+u2fsepv.dll=
+u2fcr.dll=
+exlate32.dll=
+Unicows.dll=
+
+[Package|Instalação Sistema etiquetas|Missing Dependency Information]
+C:\WINDOWS\system32\msxml3.dll=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+C:\WINDOWS\system32\MSStdFmt.dll=
+C:\WINDOWS\system32\IDAutomationPDF417.dll=
+C:\WINDOWS\system32\dmatdfu.dll=
+
+[Package|Instalação Sistema etiquetas|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSMASK32.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\Comctl32.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|Instalação Sistema etiquetas|Files Added]
+c:\documents and settings\ieuser\my documents\sistemas\mussashi\desenvolvimento\fontes\md_etiquetas\param.txt=
+etiq.mdb=
+
+[Package|Instalação Sistema etiquetas|Files Removed]
+
+[Package|Instalação Sistema etiquetas|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\MSStdFmt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msxml3.dll=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\Comctl32.ocx=Yes
+C:\Arquivos de programas\Etiquetas\Etiq.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Yes
+C:\WINDOWS\system32\IDAutomationPDF417.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=Yes
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst1.exe=Yes
+C:\WINDOWS\system32\dmatdfu.dll=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+
+[Package|Instalação Sistema etiquetas|Configure Registry Files]
+Applicable=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Register
+
+[Package|Instalação Sistema etiquetas|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalação Sistema etiquetas|Install Locations]
+D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\EtiquetasMWM.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSStdFmt.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msxml3.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Musashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetas.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\Musashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=$(AppPath)
+C:\Arquivos de programas\Etiquetas 2003\Etiq.mdb=$(AppPath)
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst.exe=$(AppPath)
+C:\WINDOWS\system32\Comctl32.ocx=$(WinSysPath)
+C:\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=$(AppPath)
+C:\Arquivos de programas\Etiquetas\Etiq.mdb=$(AppPath)
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\system32\IDAutomationPDF417.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=$(AppPath)
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst1.exe=$(AppPath)
+C:\WINDOWS\system32\dmatdfu.dll=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+
+[Package|Instalação Sistema etiquetas|Configure Shared Files]
+Applicable=Yes
+D:\Mauro\marcos\VB\Desenvolvimento\Executaveis\EtiquetasMWM.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Musashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetas.exe=Yes
+D:\Musashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=No
+C:\Arquivos de programas\Etiquetas 2003\Etiq.mdb=No
+C:\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst.exe=No
+C:\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=No
+C:\Arquivos de programas\Etiquetas\Etiq.mdb=No
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\param.txt=No
+C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetastst1.exe=Yes
+
+[Package|Instalação Sistema etiquetas|Distribution]
+Type=single
+Size=2.88 MB
+Title=Etiquetas
+
+[Package|Instalação Sistema etiquetas|IconGroups]
+Group0=Etiquetas
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Instalação Sistema etiquetas|Etiquetas]
+Icon1=Etiquetas.exe
+Title1=Etiquetas
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalação Sistema etiquetas|Package]
+PackageFolder=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Package
+ProjectFolder=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas
+ServerSideCab=
+File1=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Package\setup.exe
+File2=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Package\Setup.Lst
+File3=C:\Documents and Settings\IEUser\My Documents\Sistemas\mussashi\Desenvolvimento\Fontes\MD_Etiquetas\Package\Etiquetastst1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

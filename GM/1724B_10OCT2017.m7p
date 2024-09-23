@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml version="8.0" projectid="{2DDB975C-D47D-4799-9860-D6888E208328}">
+  <targets>
+    <target scanner="{3DD0C05C-F5B5-44FD-A77A-8E832CC25300}" enabled="True" visible="True">
+      <options>
+        <pages2localize>1-3</pages2localize>
+        <output_format>0</output_format>
+        <protection_option>0</protection_option>
+        <optimization_method>2</optimization_method>
+        <encodings>
+          <native_encoding>
+            <code>en</code>
+            <encoding/>
+          </native_encoding>
+          <output_language_list>
+            <language>
+              <code>pt</code>
+              <encoding/>
+            </language>
+          </output_language_list>
+        </encodings>
+        <output_lang_delimiter/>
+        <filename>1724B_10OCT2017.pdf</filename>
+        <output_settings>
+          <output_coding>ISO</output_coding>
+          <output_directory/>
+          <embedding>False</embedding>
+          <file_type>localized</file_type>
+          <output_type>subdirectory</output_type>
+        </output_settings>
+      </options>
+      <stringdata>
+        <row name="PDF.Info.Title" status="new">
+          <native>&quot;PowerPoint Presentation&quot;</native>
+          <lang id="pt" status="auto">&quot;Apresentação do PowerPoint&quot;</lang>
+        </row>
+        <row name="PDF.Info.Author" status="new">
+          <native>&quot;L G Graham&quot;</native>
+          <lang id="pt" status="auto">&quot;L G Graham&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[20].Text" status="new">
+          <native>&quot;-&quot;</native>
+          <lang id="pt" status="auto">&quot;-&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[21].Text" status="new">
+          <native>&quot;-&quot;</native>
+          <lang id="pt" status="auto">&quot;-&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[22].Text" status="new">
+          <native>&quot;-&quot;</native>
+          <lang id="pt" status="auto">&quot;-&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[23].Text" status="new">
+          <native>&quot;-&quot;</native>
+          <lang id="pt" status="auto">&quot;-&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[24].Text" status="new">
+          <native>&quot;PAGE 1&quot;</native>
+          <lang id="pt" status="auto">&quot;PÁGINA 1&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[25].Text" status="new">
+          <native>&quot;OF  7&quot;</native>
+          <lang id="pt" status="auto">&quot;DE 7&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[26].Text" status="new">
+          <native>&quot;GM 1724-B:  LABEL &quot;</native>
+          <lang id="pt" status="auto">&quot;GM 1724-B: LABEL &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[27].Text" status="new">
+          <native>&quot;TEMPLATE FOR MASTER PALLET LOAD&quot;</native>
+          <lang id="pt" status="auto">&quot;MODELO PARA MESTRE PALETES DE CARGA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[28].Text" status="new">
+          <native>&quot;LABEL PURPOSE/USE:     TO BE USED ON A MASTER CONTAINER OR  PALLET LOAD HOLDING MORE THAN ONE CONTAINER WITH A SINGLE &quot;</native>
+          <lang id="pt" status="auto">&quot;ETIQUETA FINALIDADE/USO: PARA SER USADO EM UMA CARGA DE MESTRE RECIPIENTE OU PÁLETE SEGURANDO MAIS DE UM RECIPIENTE COM UM ÚNICO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[29].Text" status="new">
+          <native>&quot;NOTE&quot;</native>
+          <lang id="pt" status="auto">&quot;NOTA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[30].Text" status="new">
+          <native>&quot;PART NUMBER.&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DA PEÇA.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[31].Text" status="new">
+          <native>&quot;ISSUE DATE:&quot;</native>
+          <lang id="pt" status="auto">&quot;DATA DE EMISSÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[32].Text" status="new">
+          <native>&quot;GM WORLD-WIDE PURCHASING&quot;</native>
+          <lang id="pt" status="auto">&quot;GM COMPRA DE TODO O MUNDO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[33].Text" status="new">
+          <native>&quot;AUTHORIZATION:&quot;</native>
+          <lang id="pt" status="auto">&quot;AUTORIZAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[34].Text" status="new">
+          <native>&quot;ALL GM FACILITIES (GLOBALLY)&quot;</native>
+          <lang id="pt" status="auto">&quot;TODAS AS INSTALAÇÕES DA GM (MUNDIALMENTE)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[35].Text" status="new">
+          <native>&quot;10OCT2017&quot;</native>
+          <lang id="pt" status="auto">&quot;10 DE OUTUBRO DE 2017&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[36].Text" status="new">
+          <native>&quot;2017-01&quot;</native>
+          <lang id="pt" status="auto">&quot;2017-01&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[37].Text" status="new">
+          <native>&quot;:    ANY DIMENSIONS THAT ARE NOT OTHERWISE SPECIFIED ON &quot;</native>
+          <lang id="pt" status="auto">&quot;: AS DIMENSÕES QUE NÃO SÃO ESPECIFICADOS NA &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[38].Text" status="new">
+          <native>&quot;THIS PAGE SHALL BE IN COMPLIANCE WITH AUTOMOTIVE INDUSTRY  STANDARDS&quot;</native>
+          <lang id="pt" status="auto">&quot;NESTA PÁGINA DEVE ESTAR EM CONFORMIDADE COM PADRÕES DA INDÚSTRIA AUTOMOTIVA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[39].Text" status="new">
+          <native>&quot;CUSTOMER NAME:&quot;</native>
+          <lang id="pt" status="auto">&quot;NOME DO CLIENTE:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[40].Text" status="new">
+          <native>&quot;SPECIFICATION ID NUMBER:&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DE IDENTIFICAÇÃO DA ESPECIFICAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[41].Text" status="new">
+          <native>&quot;VERSION . RELEASE&quot;</native>
+          <lang id="pt" status="auto">&quot;Versão. LANÇAMENTO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[42].Text" status="new">
+          <native>&quot;SPECIFIC CRITERIA FOR THE GENERAL MOTORS GLOBAL TRADING PARTNER LABEL TEMPLATE:&quot;</native>
+          <lang id="pt" status="auto">&quot;CRITÉRIOS ESPECÍFICOS PARA O GENERAL MOTORS COMERCIAL PARCEIRO ETIQUETA MODELO GLOBAL:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[43].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[44].Text" status="new">
+          <native>&quot;THE TEMPLATE IDENTIFIES HOW AND WHERE DATA IS TO BE PLACED ON THE LABEL WHEN IT IS REQUIRED AS PART OF A  GM    BUSINESS REQUIREMENT&quot;</native>
+          <lang id="pt" status="auto">&quot;O MODELO IDENTIFICA COMO E ONDE OS DADOS ESTÃO A SER COLOCADOS NO RÓTULO QUANDO É NECESSÁRIO COMO PARTE DE UM REQUISITO DE NEGÓCIO GM&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[45].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[46].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[47].Text" status="new">
+          <native>&quot;FONT SIZES ARE SPECIFIED FOR READABILITY - DATA THAT WILL NOT FIT AT THE SPECIFIED FONT SIZE IS TO BE TRUNCATED&quot;</native>
+          <lang id="pt" status="auto">&quot;TAMANHOS DE FONTE ESPECIFICADOS PARA LEGIBILIDADE - DADOS QUE NÃO VÃO CABER NO TAMANHO DA FONTE ESPECIFICADO SÃO PARA SER TRUNCADO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[48].Text" status="new">
+          <native>&quot;WHEN A MATERIAL HANDLING CODE &quot;</native>
+          <lang id="pt" status="auto">&quot;QUANDO UMA MANIPULAÇÃO MATERIAL CÓDIGO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[49].Text" status="new">
+          <native>&quot;(ALSO KNOWN AS “DLOC”)&quot;</native>
+          <lang id="pt" status="auto">&quot;(TAMBÉM CONHECIDO COMO &quot;DLOC&quot;)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[50].Text" status="new">
+          <native>&quot;IS REQUIRED, RECEIVING LOCATIONS ARE RESPONSIBLE &quot;</native>
+          <lang id="pt" status="auto">&quot;É NECESSÁRIO, RECEBER LOCAIS SÃO RESPONSÁVEIS &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[51].Text" status="new">
+          <native>&quot;FOR PROVIDING THE CORRECT INFORMATION TO THE SUPPLIER &quot;</native>
+          <lang id="pt" status="auto">&quot;PARA FORNECER AS INFORMAÇÕES CORRETAS PARA O FORNECEDOR &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[52].Text" status="new">
+          <native>&quot;(VIA EDI)&quot;</native>
+          <lang id="pt" status="auto">&quot;(VIA EDI)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[53].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[54].Text" status="new">
+          <native>&quot;MINIMUM LABEL DIMENSIONS &quot;</native>
+          <lang id="pt" status="auto">&quot;DIMENSÕES MÍNIMAS DO RÓTULO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[55].Text" status="new">
+          <native>&quot;APPROXIMATELY 4”  (102 MM) HIGH BY 6” (152 MM) WIDE&quot;</native>
+          <lang id="pt" status="auto">&quot;APROXIMADAMENTE 4&quot;(102 MM) ALTA POR 6&quot; (152 MM) LARGURA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[56].Text" status="new">
+          <native>&quot;IN EUROPE IS THE PAPER FORMAT DINA5(~ 6” x 8”) IN USE =&gt; IF IT WILL BE USED, PLEASE EXPAND THE FONT TO MAX ALWAYS THE CONTAINER SIZE/PLACE FOR THE LABEL SHOULD BE THE DECISION WHICH PAPER SIZE MAY BE USED&quot;</native>
+          <lang id="pt" status="auto">&quot;NA Europa é o formato de papel DINA5(~ 6&quot;x 8&quot;) em uso =&gt; se ele vai ser usado, por favor expandir a fonte para MAX sempre o recipiente tamanho e local para o rótulo deve ser a decisão qual tamanho do papel pode ser usado&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[57].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[58].Text" status="new">
+          <native>&quot;LABELS SHALL BE PRINTED WITH BLACK CHARACTERS ON WHITE BACKGROUND  &quot;</native>
+          <lang id="pt" status="auto">&quot;RÓTULOS SÃO IMPRESSOS COM PERSONAGENS NEGROS SOBRE FUNDO BRANCO  &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[59].Text" status="new">
+          <native>&quot;(NEITHER COLORED PAPER NOR COLORED &quot;</native>
+          <lang id="pt" status="auto">&quot;(PAPEL COLORIDO NEM COR &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[60].Text" status="new">
+          <native>&quot;INK IS ALLOWED)&quot;</native>
+          <lang id="pt" status="auto">&quot;TINTA É PERMITIDA)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[61].Text" status="new">
+          <native>&quot;FONTS SHALL BE &quot;</native>
+          <lang id="pt" status="auto">&quot;FONTES DEVEM SER &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[62].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[63].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[64].Text" status="new">
+          <native>&quot;UPPERCASE BOLD ARIAL NARROW, HELVETICA CONDENSED &quot;</native>
+          <lang id="pt" status="auto">&quot;LETRAS MAIUSCULAS EM NEGRITO ARIAL NARROW, HELVETICA CONDENSADO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[65].Text" status="new">
+          <native>&quot;OR &quot;</native>
+          <lang id="pt" status="auto">&quot;OU &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[66].Text" status="new">
+          <native>&quot;BAR CODE SYMBOLOGIES ON THE LABEL SHALL BE:  CODE 128 LINEAR BAR CODE, AND, DATA MATVRIC  2-D BAR CODE&quot;</native>
+          <lang id="pt" status="auto">&quot;SIMBOLOGIAS DE CÓDIGO DE BARRAS NO RÓTULO DEVEM SER: CÓDIGO 128 CÓDIGOS DE BARRAS LINEAR E, DADOS MATVRIC CÓDIGO DE BARRAS 2D&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[67].Text" status="new">
+          <native>&quot;EQUIVALENT&quot;</native>
+          <lang id="pt" status="auto">&quot;EQUIVALENTE&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[68].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[69].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[70].Text" status="new">
+          <native>&quot;DATES SHALL BE IN THE INTERNATIONAL FORMAT OF “DDMMMYYYY” &quot;</native>
+          <lang id="pt" status="auto">&quot;AS DATAS DEVEM ESTAR NO FORMATO INTERNACIONAL DE &quot;DDMMMYYYY&quot; &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[71].Text" status="new">
+          <native>&quot;SUPPLIERS MUST USE DELJIT-SH 2 CHARACTER PLANT CODE DATA IF THE PCI SEGMENTS ARE PROVIDED&quot;</native>
+          <lang id="pt" status="auto">&quot;FORNECEDORES DEVEM USAR DELJIT-SOARES 2 PLANTA CÓDIGO DADOS DE CARACTERES, SE OS SEGMENTOS PCI SÃO FORNECIDOS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[72].Text" status="new">
+          <native>&quot;(EG:  25SEP2001)&quot;</native>
+          <lang id="pt" status="auto">&quot;(POR EXEMPLO: 25 DE SETEMBRO DE 2001)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[73].Text" status="new">
+          <native>&quot;ALTERNATIVE IS TO USE THE 5 CHARACTER CISCO PLANT CODE FROM THE NAD+ST SEGMENT •&quot;</native>
+          <lang id="pt" status="auto">&quot;ALTERNATIVA É USAR O CÓDIGO 5 PERSONAGEM CISCO PLANTA DO NAD + SEGMENTO ST •&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[74].Text" status="new">
+          <native>&quot;WEIGHTS SHALL BE EXPRESSED IN THE INTERNATIONAL METRIC FORMAT OF KILOGRAMS  (&quot;</native>
+          <lang id="pt" status="auto">&quot;PESOS É EXPRESSA NO FORMATO MÉTRICO INTERNACIONAL DE QUILOGRAMAS (&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[75].Text" status="new">
+          <native>&quot;ROUNDED, NO DECIMAL&quot;</native>
+          <lang id="pt" status="auto">&quot;ARREDONDADO, NÃO DECIMAL&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[76].Text" status="new">
+          <native>&quot;) &quot;</native>
+          <lang id="pt" status="auto">&quot;) &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[77].Text" status="new">
+          <native>&quot;LABELS SHALL BE VERIFIED AS LEGIBLE BY THE SUPPLIER PER AIAG B10, B14, B8, B16, QS9000 AND ISO STANDARDS&quot;</native>
+          <lang id="pt" status="auto">&quot;RÓTULOS DEVEM SER VERIFICADOS COMO LEGÍVEIS PELO FORNECEDOR POR AIAG B10, B14, B8, B16, QS9000 E NORMAS ISO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[78].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[79].Text" status="new">
+          <native>&quot;(NOTE:  BAR  CODES MUST BE EASILY SCANNABLE AND MEET OR EXCEED ANSI PRINT QUALITY “C” AT POINT OF RECEIPT)&quot;</native>
+          <lang id="pt" status="auto">&quot;(NOTA: OS CÓDIGOS DE BARRAS DEVE SER FACILMENTE COMPREENSÍVEL E ATENDER OU EXCEDER A QUALIDADE DE IMPRESSÃO DE ANSI &quot;C&quot; NO PONTO DE RECEPÇÃO)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[80].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[81].Text" status="new">
+          <native>&quot;LABELS SHALL BE AFFIXED IN ACCORDANCE WITH GM1738 GUIDELINES &quot;</native>
+          <lang id="pt" status="auto">&quot;ETIQUETAS DEVEM SER COLOCADAS EM CONFORMIDADE COM GM1738 DIRETRIZES &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[82].Text" status="new">
+          <native>&quot;(USUALLY OPPOSITE ENDS OF EACH CONTAINER)&quot;</native>
+          <lang id="pt" status="auto">&quot;(GERALMENTE EXTREMOS OPOSTOS DE CADA RECIPIENTE)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[83].Text" status="new">
+          <native>&quot;•&quot;</native>
+          <lang id="pt" status="auto">&quot;•&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[84].Text" status="new">
+          <native>&quot;FOR LOCAL SUPPLIERS ONLY SHIPPING TO LOCAL GM PLANTS CAN USE THE LOCAL LANGUAGE BUT MUST HAVE COMMON  LABEL FORMAT.&quot;</native>
+          <lang id="pt" status="auto">&quot;PARA FORNECEDORES LOCAIS APENAS ENVIO DE PLANTAS GM LOCAL PODE USAR O IDIOMA LOCAL MAS DEVE TER O FORMATO DE RÓTULO COMUM.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[85].Text" status="new">
+          <native>&quot;ADDITIONAL DETAILS AVAILABLE AT GENERAL MOTORS’ SUPPLY POWER SITE “&quot;</native>
+          <lang id="pt" status="auto">&quot;DETALHES ADICIONAIS DISPONÍVEIS NA GENERAL MOTORS SITE DE FORNECIMENTO DE ENERGIA&quot;&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[86].Text" status="new">
+          <native>&quot;“GM1724”)&quot;</native>
+          <lang id="pt" status="auto">&quot;&quot;GM1724&quot;)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[87].Text" status="new">
+          <native>&quot;https://gmsupplypower.covisint.com/web/portal/home&quot;</native>
+          <lang id="pt" status="auto">&quot;https://gmsupplypower.Covisint.com/Web/Portal/Home&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[88].Text" status="new">
+          <native>&quot;” &quot;</native>
+          <lang id="pt" status="auto">&quot;&quot; &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[89].Text" status="new">
+          <native>&quot;(search on &quot;</native>
+          <lang id="pt" status="auto">&quot;(pesquisa no &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[90].Text" status="new">
+          <native>&quot;EMAIL REQUESTS FOR ADDED CLARIFICATION OR SUGGESTED CHANGES TO: REVERENCE THE CONTACT LIST ON SUPPLY POWER&quot;</native>
+          <lang id="pt" status="auto">&quot;PEDIDOS DE E-MAIL PARA ESCLARECIMENTO ADICIONAL OU ALTERAÇÕES SUGERIDAS PARA: REVERÊNCIA A LISTA DE CONTATOS NA FONTE DE ALIMENTAÇÃO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[91].Text" status="new">
+          <native>&quot;NOTE:  SEE ALSO SINGLE LABEL&quot;</native>
+          <lang id="pt" status="auto">&quot;NOTA: VEJA TAMBÉM RÓTULO ÚNICO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[92].Text" status="new">
+          <native>&quot;(GM1724-A) &quot;</native>
+          <lang id="pt" status="auto">&quot;(GM1724-A) &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[93].Text" status="new">
+          <native>&quot;AND&quot;</native>
+          <lang id="pt" status="auto">&quot;E&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[94].Text" status="new">
+          <native>&quot;MIXED LABEL&quot;</native>
+          <lang id="pt" status="auto">&quot;MISTO DE RÓTULO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[95].Text" status="new">
+          <native>&quot;AND PACKAGING GUIDELINES &quot;</native>
+          <lang id="pt" status="auto">&quot;E AS DIRETRIZES DE EMBALAGEM &quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[96].Text" status="new">
+          <native>&quot;(GM1724-C)&quot;</native>
+          <lang id="pt" status="auto">&quot;(GM1724-C)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[97].Text" status="new">
+          <native>&quot;STANDARDS&quot;</native>
+          <lang id="pt" status="auto">&quot;NORMAS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[98].Text" status="new">
+          <native>&quot;(GM1738)&quot;</native>
+          <lang id="pt" status="auto">&quot;(GM1738)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[99].Text" status="new">
+          <native>&quot;IT’S YOUR IMAGE&quot;</native>
+          <lang id="pt" status="auto">&quot;É A SUA IMAGEM&quot;</lang>
+        </row>
+        <row name="PDF.Page[   1].Text[100].Text" status="new">
+          <native>&quot;Your label is the impression of your company and it’s products. Poorly printed labels, sloppy placement, and  unscannable barcodes reflect on the perception of your company. The shipping label and associated processes  should receive the same quality efforts as your product – it’s your image.&quot;</native>
+          <lang id="pt" status="auto">&quot;Seu rótulo é a impressão de sua empresa e produtos. Etiquetas impressas mal, colocação desleixada e códigos de barras inescaneável refletem sobre a percepção da sua empresa. A etiqueta de envio e processos associados devem receber os mesmos esforços de qualidade como seu produto – é a sua imagem.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[31].Text" status="new">
+          <native>&quot;PAGE 2&quot;</native>
+          <lang id="pt" status="auto">&quot;PÁGINA 2&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[32].Text" status="new">
+          <native>&quot;OF  7&quot;</native>
+          <lang id="pt" status="auto">&quot;DE 7&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[33].Text" status="new">
+          <native>&quot;GM 1724-B:  LABEL &quot;</native>
+          <lang id="pt" status="auto">&quot;GM 1724-B: LABEL &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[34].Text" status="new">
+          <native>&quot;TEMPLATE FOR MASTER PALLET LOAD&quot;</native>
+          <lang id="pt" status="auto">&quot;MODELO PARA MESTRE PALETES DE CARGA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[35].Text" status="new">
+          <native>&quot;LABEL PURPOSE/USE:     TO BE USED ON A MASTER CONTAINER OR  PALLET LOAD HOLDING MORE THAN ONE CONTAINER WITH A SINGLE &quot;</native>
+          <lang id="pt" status="auto">&quot;ETIQUETA FINALIDADE/USO: PARA SER USADO EM UMA CARGA DE MESTRE RECIPIENTE OU PÁLETE SEGURANDO MAIS DE UM RECIPIENTE COM UM ÚNICO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[36].Text" status="new">
+          <native>&quot;NOTE&quot;</native>
+          <lang id="pt" status="auto">&quot;NOTA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[37].Text" status="new">
+          <native>&quot;PART NUMBER.&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DA PEÇA.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[38].Text" status="new">
+          <native>&quot;ISSUE DATE:&quot;</native>
+          <lang id="pt" status="auto">&quot;DATA DE EMISSÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[39].Text" status="new">
+          <native>&quot;GM WORLD-WIDE PURCHASING&quot;</native>
+          <lang id="pt" status="auto">&quot;GM COMPRA DE TODO O MUNDO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[40].Text" status="new">
+          <native>&quot;AUTHORIZATION:&quot;</native>
+          <lang id="pt" status="auto">&quot;AUTORIZAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[41].Text" status="new">
+          <native>&quot;ALL GM FACILITIES (GLOBALLY)&quot;</native>
+          <lang id="pt" status="auto">&quot;TODAS AS INSTALAÇÕES DA GM (MUNDIALMENTE)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[42].Text" status="new">
+          <native>&quot;10OCT2017&quot;</native>
+          <lang id="pt" status="auto">&quot;10 DE OUTUBRO DE 2017&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[43].Text" status="new">
+          <native>&quot;2017-01&quot;</native>
+          <lang id="pt" status="auto">&quot;2017-01&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[44].Text" status="new">
+          <native>&quot;:    ANY DIMENSIONS THAT ARE NOT OTHERWISE SPECIFIED ON &quot;</native>
+          <lang id="pt" status="auto">&quot;: AS DIMENSÕES QUE NÃO SÃO ESPECIFICADOS NA &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[45].Text" status="new">
+          <native>&quot;THIS PAGE SHALL BE IN COMPLIANCE WITH AUTOMOTIVE INDUSTRY  STANDARDS&quot;</native>
+          <lang id="pt" status="auto">&quot;NESTA PÁGINA DEVE ESTAR EM CONFORMIDADE COM PADRÕES DA INDÚSTRIA AUTOMOTIVA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[46].Text" status="new">
+          <native>&quot;CUSTOMER NAME:&quot;</native>
+          <lang id="pt" status="auto">&quot;NOME DO CLIENTE:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[47].Text" status="new">
+          <native>&quot;SPECIFICATION ID NUMBER:&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DE IDENTIFICAÇÃO DA ESPECIFICAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[48].Text" status="new">
+          <native>&quot;VERSION . RELEASE&quot;</native>
+          <lang id="pt" status="auto">&quot;Versão. LANÇAMENTO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[49].Text" status="new">
+          <native>&quot;MIMINUM LABEL DIMENSIONS - APPROXIMATELY 4”  (102 MM) HIGH BY 6” (152 MM) WIDE&quot;</native>
+          <lang id="pt" status="auto">&quot;DIMENSÕES DO RÓTULO DE SUBORDINAR - APROXIMADAMENTE 4&quot;(102 MM) ALTA POR 6&quot; (152 MM) LARGURA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[50].Text" status="new">
+          <native>&quot;LABEL&quot;</native>
+          <lang id="pt" status="auto">&quot;RÓTULO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[51].Text" status="new">
+          <native>&quot;AREA&quot;</native>
+          <lang id="pt" status="auto">&quot;ÁREA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[52].Text" status="new">
+          <native>&quot;DATA LAYOUT&quot;</native>
+          <lang id="pt" status="auto">&quot;LAYOUT DE DADOS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[53].Text" status="new">
+          <native>&quot;A1&quot;</native>
+          <lang id="pt" status="auto">&quot;A1&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[54].Text" status="new">
+          <native>&quot;SHIP FROM &quot;</native>
+          <lang id="pt" status="auto">&quot;O NAVIO DE &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[55].Text" status="new">
+          <native>&quot;A2&quot;</native>
+          <lang id="pt" status="auto">&quot;A2&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[56].Text" status="new">
+          <native>&quot;SHIP TO&quot;</native>
+          <lang id="pt" status="auto">&quot;NAVIO PARA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[57].Text" status="new">
+          <native>&quot;MATERIAL &quot;</native>
+          <lang id="pt" status="auto">&quot;MATERIAL &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[58].Text" status="new">
+          <native>&quot;HANDLING CODE&quot;</native>
+          <lang id="pt" status="auto">&quot;CÓDIGO DE MANIPULAÇÃO DE&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[59].Text" status="new">
+          <native>&quot;GM PART NUMBER&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DE PEÇA GM&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[60].Text" status="new">
+          <native>&quot;6J LICENSE PLATE&quot;</native>
+          <lang id="pt" status="auto">&quot;6J MATRÍCULA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[61].Text" status="new">
+          <native>&quot;LOGISTICS &quot;</native>
+          <lang id="pt" status="auto">&quot;LOGÍSTICA &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[62].Text" status="new">
+          <native>&quot;DATA&quot;</native>
+          <lang id="pt" status="auto">&quot;DADOS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[63].Text" status="new">
+          <native>&quot;2D &quot;</native>
+          <lang id="pt" status="auto">&quot;2D &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[64].Text" status="new">
+          <native>&quot;BARCODE&quot;</native>
+          <lang id="pt" status="auto">&quot;CÓDIGO DE BARRAS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[65].Text" status="new">
+          <native>&quot;MASTER&quot;</native>
+          <lang id="pt" status="auto">&quot;MESTRE&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[66].Text" status="new">
+          <native>&quot;SUPPLIER &quot;</native>
+          <lang id="pt" status="auto">&quot;FORNECEDOR &quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[67].Text" status="new">
+          <native>&quot;DELIVERYNOTE- or PUS- or INVOICE-NUMBER :&quot;</native>
+          <lang id="pt" status="auto">&quot;DELIVERYNOTE - ou PUS - ou -número da fatura:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[68].Text" status="new">
+          <native>&quot;REFERENCE:&quot;</native>
+          <lang id="pt" status="auto">&quot;REFERÊNCIA:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   2].Text[69].Text" status="new">
+          <native>&quot;Kanban No. or PO No.&quot;</native>
+          <lang id="pt" status="auto">&quot;N º de Kanban ou não de PO.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[66].Text" status="new">
+          <native>&quot;*&quot;</native>
+          <lang id="pt" status="auto">&quot;*&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[67].Text" status="new">
+          <native>&quot;*&quot;</native>
+          <lang id="pt" status="auto">&quot;*&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[68].Text" status="new">
+          <native>&quot;PAGE 3&quot;</native>
+          <lang id="pt" status="auto">&quot;PÁGINA 3&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[69].Text" status="new">
+          <native>&quot;OF  7&quot;</native>
+          <lang id="pt" status="auto">&quot;DE 7&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[70].Text" status="new">
+          <native>&quot;GM 1724-B:  LABEL &quot;</native>
+          <lang id="pt" status="auto">&quot;GM 1724-B: LABEL &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[71].Text" status="new">
+          <native>&quot;TEMPLATE FOR MASTER PALLET LOAD&quot;</native>
+          <lang id="pt" status="auto">&quot;MODELO PARA MESTRE PALETES DE CARGA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[72].Text" status="new">
+          <native>&quot;LABEL PURPOSE/USE:     TO BE USED ON A MASTER CONTAINER OR  PALLET LOAD HOLDING MORE THAN ONE CONTAINER WITH A SINGLE &quot;</native>
+          <lang id="pt" status="auto">&quot;ETIQUETA FINALIDADE/USO: PARA SER USADO EM UMA CARGA DE MESTRE RECIPIENTE OU PÁLETE SEGURANDO MAIS DE UM RECIPIENTE COM UM ÚNICO &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[73].Text" status="new">
+          <native>&quot;NOTE&quot;</native>
+          <lang id="pt" status="auto">&quot;NOTA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[74].Text" status="new">
+          <native>&quot;PART NUMBER.&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DA PEÇA.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[75].Text" status="new">
+          <native>&quot;ISSUE DATE:&quot;</native>
+          <lang id="pt" status="auto">&quot;DATA DE EMISSÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[76].Text" status="new">
+          <native>&quot;GM WORLD-WIDE PURCHASING&quot;</native>
+          <lang id="pt" status="auto">&quot;GM COMPRA DE TODO O MUNDO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[77].Text" status="new">
+          <native>&quot;AUTHORIZATION:&quot;</native>
+          <lang id="pt" status="auto">&quot;AUTORIZAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[78].Text" status="new">
+          <native>&quot;ALL GM FACILITIES (GLOBALLY)&quot;</native>
+          <lang id="pt" status="auto">&quot;TODAS AS INSTALAÇÕES DA GM (MUNDIALMENTE)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[79].Text" status="new">
+          <native>&quot;10OCT2017&quot;</native>
+          <lang id="pt" status="auto">&quot;10 DE OUTUBRO DE 2017&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[80].Text" status="new">
+          <native>&quot;2017-01&quot;</native>
+          <lang id="pt" status="auto">&quot;2017-01&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[81].Text" status="new">
+          <native>&quot;:    ANY DIMENSIONS THAT ARE NOT OTHERWISE SPECIFIED ON &quot;</native>
+          <lang id="pt" status="auto">&quot;: AS DIMENSÕES QUE NÃO SÃO ESPECIFICADOS NA &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[82].Text" status="new">
+          <native>&quot;THIS PAGE SHALL BE IN COMPLIANCE WITH AUTOMOTIVE INDUSTRY  STANDARDS&quot;</native>
+          <lang id="pt" status="auto">&quot;NESTA PÁGINA DEVE ESTAR EM CONFORMIDADE COM PADRÕES DA INDÚSTRIA AUTOMOTIVA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[83].Text" status="new">
+          <native>&quot;CUSTOMER NAME:&quot;</native>
+          <lang id="pt" status="auto">&quot;NOME DO CLIENTE:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[84].Text" status="new">
+          <native>&quot;SPECIFICATION ID NUMBER:&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DE IDENTIFICAÇÃO DA ESPECIFICAÇÃO:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[85].Text" status="new">
+          <native>&quot;VERSION . RELEASE&quot;</native>
+          <lang id="pt" status="auto">&quot;Versão. LANÇAMENTO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[86].Text" status="new">
+          <native>&quot;0&quot;</native>
+          <lang id="pt" status="auto">&quot;0&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[87].Text" status="new">
+          <native>&quot;0&quot;</native>
+          <lang id="pt" status="auto">&quot;0&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[88].Text" status="new">
+          <native>&quot;25.4 mm&quot;</native>
+          <lang id="pt" status="auto">&quot;25,4 mm&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[89].Text" status="new">
+          <native>&quot;(1.0 in)&quot;</native>
+          <lang id="pt" status="auto">&quot;(1,0 pol.)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[90].Text" status="new">
+          <native>&quot;38.1 mm&quot;</native>
+          <lang id="pt" status="auto">&quot;38,1 mm&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[91].Text" status="new">
+          <native>&quot;(1.5 in)&quot;</native>
+          <lang id="pt" status="auto">&quot;(1,5 pol.)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[92].Text" status="new">
+          <native>&quot;50.8 mm&quot;</native>
+          <lang id="pt" status="auto">&quot;50,8 mm&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[93].Text" status="new">
+          <native>&quot;(2.0 in)&quot;</native>
+          <lang id="pt" status="auto">&quot;(2,0 pol)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[94].Text" status="new">
+          <native>&quot;76.2 mm&quot;</native>
+          <lang id="pt" status="auto">&quot;76,2 mm&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[95].Text" status="new">
+          <native>&quot;(3.0 in)&quot;</native>
+          <lang id="pt" status="auto">&quot;(3,0 pol.)&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[96].Text" status="new">
+          <native>&quot;This dimension based on nominal 0.38 mm  (0.015 in) Code 128 bar code license plate. The label provider    must ensure quiet zone requirement of  6.4 mm  (0.25 in ) is maintained.&quot;</native>
+          <lang id="pt" status="auto">&quot;Esta dimensão baseia nominal 0,38 mm (0,015 pol) código 128 placa de licença de código de barras. O provedor do rótulo deve garantir a exigência zona tranquila de 6,4 mm (0,25 pol.) é mantida.&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[97].Text" status="new">
+          <native>&quot;LABEL&quot;</native>
+          <lang id="pt" status="auto">&quot;RÓTULO&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[98].Text" status="new">
+          <native>&quot;AREA&quot;</native>
+          <lang id="pt" status="auto">&quot;ÁREA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[99].Text" status="new">
+          <native>&quot;GM PART NUMBER&quot;</native>
+          <lang id="pt" status="auto">&quot;NÚMERO DE PEÇA GM&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[100].Text" status="new">
+          <native>&quot;6J LICENSE PLATE&quot;</native>
+          <lang id="pt" status="auto">&quot;6J MATRÍCULA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[101].Text" status="new">
+          <native>&quot;A3&quot;</native>
+          <lang id="pt" status="auto">&quot;A3&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[102].Text" status="new">
+          <native>&quot;MIMINUM LABEL DIMENSIONS - APPROXIMATELY 4”  (102 MM) HIGH BY 6” (152 MM) WIDE&quot;</native>
+          <lang id="pt" status="auto">&quot;DIMENSÕES DO RÓTULO DE SUBORDINAR - APROXIMADAMENTE 4&quot;(102 MM) ALTA POR 6&quot; (152 MM) LARGURA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[103].Text" status="new">
+          <native>&quot;MASTER&quot;</native>
+          <lang id="pt" status="auto">&quot;MESTRE&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[104].Text" status="new">
+          <native>&quot;MATERIAL &quot;</native>
+          <lang id="pt" status="auto">&quot;MATERIAL &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[105].Text" status="new">
+          <native>&quot;HANDLING CODE&quot;</native>
+          <lang id="pt" status="auto">&quot;CÓDIGO DE MANIPULAÇÃO DE&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[106].Text" status="new">
+          <native>&quot;SHIP TO&quot;</native>
+          <lang id="pt" status="auto">&quot;NAVIO PARA&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[107].Text" status="new">
+          <native>&quot;A1&quot;</native>
+          <lang id="pt" status="auto">&quot;A1&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[108].Text" status="new">
+          <native>&quot;SHIP FROM &quot;</native>
+          <lang id="pt" status="auto">&quot;O NAVIO DE &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[109].Text" status="new">
+          <native>&quot;A2&quot;</native>
+          <lang id="pt" status="auto">&quot;A2&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[110].Text" status="new">
+          <native>&quot;LOGISTICS &quot;</native>
+          <lang id="pt" status="auto">&quot;LOGÍSTICA &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[111].Text" status="new">
+          <native>&quot;DATA&quot;</native>
+          <lang id="pt" status="auto">&quot;DADOS&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[112].Text" status="new">
+          <native>&quot;SUPPLIER &quot;</native>
+          <lang id="pt" status="auto">&quot;FORNECEDOR &quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[113].Text" status="new">
+          <native>&quot;DELIVERYNOTE- or PUS- or INVOICE-NUMBER :&quot;</native>
+          <lang id="pt" status="auto">&quot;DELIVERYNOTE - ou PUS - ou -número da fatura:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[114].Text" status="new">
+          <native>&quot;REFERENCE:&quot;</native>
+          <lang id="pt" status="auto">&quot;REFERÊNCIA:&quot;</lang>
+        </row>
+        <row name="PDF.Page[   3].Text[115].Text" status="new">
+          <native>&quot;Kanban No. or PO No.&quot;</native>
+          <lang id="pt" status="auto">&quot;N º de Kanban ou não de PO.&quot;</lang>
+        </row>
+      </stringdata>
+      <customdata/>
+    </target>
+  </targets>
+  <bookmarks/>
+  <infos>
+    <info infotype="description"/>
+    <info action="S" datetime="2017-11-01 10:14:50 10:14:50 AM" infotype="">File translated using Translation Wizard</info>
+  </infos>
+  <excludes emptynative="False" userset="False" allowspace="False" internalplaceholders="False" printable="" unprintable="" case-sensitive="False"/>
+  <languages native="en" active="0">
+    <language enabled="True" fallback="">pt</language>
+  </languages>
+</xml>

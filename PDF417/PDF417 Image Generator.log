@@ -1,0 +1,22 @@
+Line 445: Class PDF417LibCtl.PDF of control PDF1 was not a loaded control class.
+Line 451: The property name _cx in PDF1 is invalid.
+Line 452: The property name _cy in PDF1 is invalid.
+Line 466: The property name DataToEncode in PDF1 is invalid.
+Line 467: The property name Orientation in PDF1 is invalid.
+Line 468: The property name XtoYRatio in PDF1 is invalid.
+Line 469: The property name NarrowBarCM in PDF1 is invalid.
+Line 470: The property name LeftMarginCM in PDF1 is invalid.
+Line 471: The property name TopMarginCM in PDF1 is invalid.
+Line 472: The property name Truncated in PDF1 is invalid.
+Line 473: The property name PDFRows in PDF1 is invalid.
+Line 474: The property name PDFColumns in PDF1 is invalid.
+Line 475: The property name PDFErrorCorrectionLevel in PDF1 is invalid.
+Line 476: The property name PDFMode in PDF1 is invalid.
+Line 477: The property name ApplyTilde in PDF1 is invalid.
+Line 478: The property name FixedResolutionCM in PDF1 is invalid.
+Line 479: The property name MacroPDFEnable in PDF1 is invalid.
+Line 480: The property name MacroPDFFileID in PDF1 is invalid.
+Line 481: The property name MacroPDFSegmentIndex in PDF1 is invalid.
+Line 482: The property name MacroPDFLastSegment in PDF1 is invalid.
+Line 483: The property name WhiteBarIncrease in PDF1 is invalid.
+Line 445: Property Picture in PDF1 could not be set.

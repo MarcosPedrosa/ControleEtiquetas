@@ -1,0 +1,25 @@
+Line 198: Class PDF417ActiveXLibCtl.PDF417Ctrl of control PDF417Ctrl1 was not a loaded control class.
+Line 204: The property name _cx in PDF417Ctrl1 is invalid.
+Line 205: The property name _cy in PDF417Ctrl1 is invalid.
+Line 206: The property name DataToEncode in PDF417Ctrl1 is invalid.
+Line 207: The property name CompactionMode in PDF417Ctrl1 is invalid.
+Line 208: The property name ErrorCorrectionLevel in PDF417Ctrl1 is invalid.
+Line 209: The property name DataColumns in PDF417Ctrl1 is invalid.
+Line 210: The property name DataRows in PDF417Ctrl1 is invalid.
+Line 211: The property name CompactPDF in PDF417Ctrl1 is invalid.
+Line 212: The property name QuietZone in PDF417Ctrl1 is invalid.
+Line 213: The property name Y2XRatio in PDF417Ctrl1 is invalid.
+Line 214: The property name Orientation in PDF417Ctrl1 is invalid.
+Line 215: The property name Transparent in PDF417Ctrl1 is invalid.
+Line 218: The property name AlignH in PDF417Ctrl1 is invalid.
+Line 219: The property name AlignV in PDF417Ctrl1 is invalid.
+Line 220: The property name MacroPDF in PDF417Ctrl1 is invalid.
+Line 221: The property name MacroPDFSegmentCount in PDF417Ctrl1 is invalid.
+Line 222: The property name MacroPDFSegmentIdx in PDF417Ctrl1 is invalid.
+Line 223: The property name MacroPDFFileID in PDF417Ctrl1 is invalid.
+Line 224: The property name MacroPDFFileName in PDF417Ctrl1 is invalid.
+Line 225: The property name MacroPDFTimeStamp in PDF417Ctrl1 is invalid.
+Line 226: The property name MacroPDFSender in PDF417Ctrl1 is invalid.
+Line 227: The property name MacroPDFAddressee in PDF417Ctrl1 is invalid.
+Line 228: The property name MacroPDFFileSize in PDF417Ctrl1 is invalid.
+Line 229: The property name MacroPDFChecksum in PDF417Ctrl1 is invalid.

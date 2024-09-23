@@ -1,0 +1,16 @@
+frmMain = 44, 58, 989, 422, , 132, 174, 963, 603, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modAddProgBar = 66, 87, 1011, 451, 
+modGDIPlusResize = 22, 29, 967, 393, 
+frmPreview = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsCRC = 0, 0, 0, 0, C
+modDatabaseFunc = 110, 145, 1055, 509, 
+modFileFunc = 44, 58, 989, 422, 
+modCommonDialog = 0, 0, 0, 0, C
+modMouseFunc = 0, 0, 0, 0, C
+modINIFileFunc = 88, 116, 1033, 480, Z
+frmAutoRename = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSlideShow = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+LaVolpeButton = 0, 0, 0, 0, C, 22, 29, 853, 458, C
+modListview = 0, 0, 0, 0, C

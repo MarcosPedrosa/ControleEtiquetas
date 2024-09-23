@@ -1,0 +1,1 @@
+﻿{"RecordCount":1,"Fields":[{"Name":"NOME","Type":"TEXT","PrimaryKey":false,"Nullable":true,"DefaultValue":null}],"RowsCols":[["SEXTA FEIRA  PAIXÃO"]]}

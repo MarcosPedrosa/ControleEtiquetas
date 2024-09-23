@@ -1,0 +1,8 @@
+Erro ocorrido em: 03/05/2012 às 09:37:05
+  Máquina:          NOTE-ACER
+  Path:             C:\musashi\Desenvolvimento\Fontes\MD_Etiquetas\Etiquetas.exe
+  Mensagem exibida: Ocorreu um erro ao imprimir a etiqueta.
+  Err Number:       91
+  Err Description:  Object variable or With block variable not set
+Fim erro
+

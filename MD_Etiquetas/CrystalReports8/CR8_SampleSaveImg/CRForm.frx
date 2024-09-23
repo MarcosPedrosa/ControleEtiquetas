@@ -1,0 +1,9 @@
+ÿ$TBarCode OCX is programmed within 
+the Section3_Format event of CR. 
+It works as template for barcode 
+creation during runtime.
+You can make it invisible if you want.
+Check out the sample code!
+You need a c:\temp folder for this sample 
+to work! Adapt the source code
+to your needs!

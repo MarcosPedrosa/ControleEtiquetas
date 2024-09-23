@@ -1,0 +1,15 @@
+c:\arquivos de programas\etiquetas  //Caminho do banco de dados Access
+                                    //Servidor banco de dados Sql server
+c:\arquivos de programas\etiquetas  //Caminho do banco de dados Access de interface
+                                    //Servidor banco de dados Sql server de interface
+c:\arquivos de programas\etiquetas  //Caminho dos relatorios
+c:\arquivos de programas\etiquetas  //Caminho dos arquivos importacao (txt/xml)
+c:\arquivos de programas\etiquetas  //Caminho dos arquivos de exportacao
+c:\arquivos de programas\etiquetas  //Pasta que contem os logs dos erros
+                                    //Reservado
+                                    //Reservado
+am                                  //Filial Musashi: br = Musashi do Brasil e am = Musashi da Amazonia
+                                    //Alias (Catalog) do Bd SqlServer
+                                    //Alias (Catalog) do Bd SqlServer de interface
+                                    //Ip do dispositivo móvel para coleta das mercadorias
+                                    //Ip do dispositivo móvel para paletização das mercadorias

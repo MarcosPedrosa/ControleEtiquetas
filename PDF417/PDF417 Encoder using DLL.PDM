@@ -1,0 +1,235 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|PDF417 Encoder]
+Icon1=PDF417en.exe
+Title1=PDF417 Encoder
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|PDF417 Encoder for Windows]
+Icon1=PDF417en.exe
+Title1=PDF417 Encoder for Windows
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\data\Fonts\pdf417\Sale\SaleComponents\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Barcode.frm=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Barcode.frm
+
+[Package|Standard Setup Package 1|Files Released]
+spdf417a.ttf=
+PDF417 Access 2000 Barcode Marcos.mdb=
+PDF417 Data Source for Word Mail Merge.xls=
+PDF417 Access 97 Barcode Marcos.mdb=
+PDF417 MS Word Mail Merge.doc=
+PDF417A_.TTF=
+PDF417A2.TTF=
+PDF417A4.TTF=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\data\Fonts\Components\ActiveX\BizFonts2D.dll=
+C:\data\Fonts\Components\Crystal\CRUFL2D.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+c:\data\fonts\pdf417\sale\salecomponents\barcode.frx=
+c:\data\fonts\pdf417\sale\salecomponents\pdf417 encoder using dll.pdm=
+c:\data\fonts\pdf417\sale\salecomponents\pdf417 encoder using dll.vbp=
+c:\data\fonts\pdf417\sale\salecomponents\barcode.frm=
+c:\data\fonts\pdf417\sale\salecomponents\barcode.ico=
+c:\data\fonts\pdf417\sale\salecomponents\pdf417 encoder using dll.vbw=
+c:\data\fonts\components\crystal\crufl2d.dll=
+pdf417a4.ttf=
+pdf417a2.ttf=
+pdf417a_.ttf=
+pdf417 ms word mail merge.doc=
+pdf417 access 97 barcode marcos.mdb=
+pdf417 data source for word mail merge.xls=
+pdf417 access 2000 barcode marcos.mdb=
+C:\data\Fonts\pdf417\Sale\PDF417C4.TTF=
+C:\data\Fonts\pdf417\Sale\PDF417C2.TTF=
+C:\data\Fonts\pdf417\Sale\PDF417C_.TTF=
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 2000 Barcode Macros.mdb=
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 97 Barcode Macros.mdb=
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Data Source for Word Mail Merge.xls=
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 MS Word Mail Merge.doc=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\data\Fonts\Components\ActiveX\BizFonts2D.dll=Yes
+C:\data\Fonts\Components\Crystal\CRUFL2D.dll=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417en.exe=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frx=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.PDM=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbp=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frm=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\BARCODE.ICO=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbw=Yes
+C:\data\Fonts\pdf417\Sale\PDF417C4.TTF=Yes
+C:\data\Fonts\pdf417\Sale\PDF417C2.TTF=Yes
+C:\data\Fonts\pdf417\Sale\PDF417C_.TTF=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 2000 Barcode Macros.mdb=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 97 Barcode Macros.mdb=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Data Source for Word Mail Merge.xls=Yes
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 MS Word Mail Merge.doc=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417en.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\data\Fonts\Components\ActiveX\BizFontsBarcode.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\sPDF417a.ttf=$(Font)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\Barcode.frx=$(AppPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.PDM=$(AppPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.vbp=$(AppPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\Barcode.frm=$(AppPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\BARCODE.ICO=$(AppPath)
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.vbw=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417en.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\data\Fonts\Components\ActiveX\BizFonts2D.dll=$(WinSysPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Barcode.frx=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.PDM=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.vbp=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Barcode.frm=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\BARCODE.ICO=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.vbw=$(AppPath)
+C:\data\Fonts\Components\Crystal\CRUFL2D.dll=$(WinSysPath)
+C:\data\Fonts\pdf417\Sale\PDF417A4.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\PDF417A2.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\PDF417A_.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 MS Word Mail Merge.doc=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Access 97 Barcode Marcos.mdb=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Data Source for Word Mail Merge.xls=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Access 2000 Barcode Marcos.mdb=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417en.exe=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frx=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.PDM=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbp=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frm=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\BARCODE.ICO=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbw=$(AppPath)
+C:\data\Fonts\pdf417\Sale\PDF417C4.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\PDF417C2.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\PDF417C_.TTF=$(Font)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 2000 Barcode Macros.mdb=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 97 Barcode Macros.mdb=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Data Source for Word Mail Merge.xls=$(AppPath)
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 MS Word Mail Merge.doc=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417en.exe=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\Barcode.frx=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.PDM=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.vbp=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\Barcode.frm=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\BARCODE.ICO=No
+C:\data\Fonts\pdf417\SaleDIST\PDF417 Encoder & DLL for Windows\PDF417 Encoder using DLL.vbw=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417en.exe=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Barcode.frx=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.PDM=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.vbp=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Barcode.frm=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\BARCODE.ICO=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Encoder using DLL.vbw=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 MS Word Mail Merge.doc=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Access 97 Barcode Marcos.mdb=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Data Source for Word Mail Merge.xls=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417 Access 2000 Barcode Marcos.mdb=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417en.exe=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frx=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.PDM=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbp=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\Barcode.frm=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\BARCODE.ICO=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Encoder using DLL.vbw=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 2000 Barcode Macros.mdb=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Access 97 Barcode Macros.mdb=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Data Source for Word Mail Merge.xls=No
+C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 MS Word Mail Merge.doc=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=PDF417 Fonts and Encoder
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows
+ProjectFolder=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows
+ServerSideCab=
+File1=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\setup.exe
+File2=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\Setup.Lst
+File3=C:\data\Fonts\pdf417\Sale\SaleComponents\PDF417 Tools for Windows\PDF417en.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=PDF417 Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|PDF417 Tools]
+Icon1="PDF417 Access 97 Barcode Macros.mdb"
+Title1=PDF417 Access 97 Barcode Example
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2="PDF417 Access 2000 Barcode Macros.mdb"
+Title2=PDF417 Access 2000 Barcode Example
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3="PDF417 MS Word Mail Merge.doc"
+Title3=PDF417 MS Word Mail Merge Example
+StartIn3=$(AppPath)
+Key3=Icon4
+Icon4=PDF417en.exe
+Title4=PDF417 Encoder for Windows
+StartIn4=$(AppPath)
+Key4=Icon1
+Icon5="PDF417 Encoder using DLL.vbp"
+Title5=Visual Basic Example Using DLL
+StartIn5=$(AppPath)
+Key5=Icon5

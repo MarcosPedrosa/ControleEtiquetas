@@ -1,0 +1,33 @@
+Versions file
+
+This file : 2.0.1
+
+Visual Basic app. :
+ - Code39 : 2.0.0
+ - Code128 : 3.0.0
+ - Ean128 : 2.0.0
+ - Code25I : 1.1.0
+ - Ean13 & 8 : 3.0.0
+ - PDF417 : 2.5.0
+
+Visual Basic functions :
+ - Code39 : 1.0.0
+ - Code128 : 2.0.0
+ - Ean128 : 2.0.0
+ - Code25I : 2.0.0
+ - Ean13 : 1.1.1
+ - AddOn : 1.0.0
+ - Ean8 : 1.0.0
+ - PDF417 : 1.5.0
+ - Datamatrix : 0.1.0
+
+Fonts :
+ - Code39 : 1.20
+ - Code128 : 2.00
+ - Code25I : 1.10
+ - Ean13 : 1.30
+ - PDF417 : 1.10
+ - Datamatrix : 1.10
+
+App. OpenBarcodes VB + DLL : 1.0.0
+OpenBarcodes.dll : 2.0.0
